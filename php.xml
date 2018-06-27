@@ -5,12 +5,6 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/bin/php" id="a2f051ad-27eb-4eec-81e1-eeddfe86fb4e" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/opt/remi/php70/root/bin/php" id="9afb0777-738b-4f63-95e2-356cb4c558dd" name="PHP 7.0" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.2">
@@ -874,9 +868,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpSmartKeysConfiguration">
-    <option name="selectVariableNameWithoutDollar" value="true" />
-    <option name="smartFunctionParametersCompletion" value="true" />
   </component>
 </application>
