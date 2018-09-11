@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="dataTables.bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_plug-ins_1.10.15_integration_bootstrap_3_dataTables.bootstrap.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_plug-ins_1.10.15_integration_bootstrap_3_dataTables.bootstrap.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="dataTables.responsive" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_responsive_2.1.1_js_dataTables.responsive.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_responsive_2.1.1_js_dataTables.responsive.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
