@@ -13,6 +13,9 @@
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="5" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
