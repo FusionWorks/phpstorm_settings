@@ -3,10 +3,12 @@
     <library name="autobahn" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ipv3.axilium.com_bundles_goswebsocket_js_vendor_autobahn.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ipv3.loc_bundles_goswebsocket_js_vendor_autobahn.min.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ipv3.axilium.com_bundles_goswebsocket_js_vendor_autobahn.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ipv3.loc_bundles_goswebsocket_js_vendor_autobahn.min.js" />
       </CLASSES>
       <SOURCES />
@@ -14,10 +16,12 @@
     <library name="gos_web_socket_client" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ipv3.axilium.com_bundles_goswebsocket_js_gos_web_socket_client.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ipv3.loc_bundles_goswebsocket_js_gos_web_socket_client.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ipv3.axilium.com_bundles_goswebsocket_js_gos_web_socket_client.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ipv3.loc_bundles_goswebsocket_js_gos_web_socket_client.js" />
       </CLASSES>
       <SOURCES />
