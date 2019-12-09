@@ -15,7 +15,7 @@
             <configuration_option name="include_path" value=".;c:/ospanel/modules/php/PHP_7.3-x64;c:/ospanel/modules/php/PHP_7.3-x64/PEAR/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.8.1">
+            <debugger_info debugger="xdebug" debugger_version="2.7.2">
               <debug_extensions />
             </debugger_info>
           </debuggers>
