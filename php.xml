@@ -8,13 +8,17 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="C:\OSPanel\modules\php\PHP_7.3-x64\php-cgi.exe" php_cli="C:\OSPanel\modules\php\PHP_7.3-x64\php.exe" path_separator=";" version="7.3.9">
+        <phpinfo binary_type="PHP" php_cgi="C:\OSPanel\modules\php\PHP_7.3-x64\php-cgi.exe" php_cli="C:\OSPanel\modules\php\PHP_7.3-x64\php.exe" path_separator=";" version="7.3.2">
           <additional_php_ini />
           <configuration_file>C:\ospanel\modules\php\PHP_7.3-x64\php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value="." />
+            <configuration_option name="include_path" value=".;c:/ospanel/modules/php/PHP_7.3-x64;c:/ospanel/modules/php/PHP_7.3-x64/PEAR/pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.8.1">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDFlib" />
@@ -30,7 +34,6 @@
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
-            <extension name="enchant" />
             <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
@@ -39,7 +42,9 @@
             <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
-            <extension name="imagick" />
+            <extension name="igbinary" />
+            <extension name="imap" />
+            <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
@@ -57,12 +62,12 @@
             <extension name="session" />
             <extension name="soap" />
             <extension name="sockets" />
-            <extension name="sodium" />
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="timezonedb" />
             <extension name="tokenizer" />
             <extension name="wddx" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
