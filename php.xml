@@ -1,5 +1,5 @@
 <application>
-  <component name="PhpAutoImport" global_class_behavior="PREFER_IMPORT" />
+  <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="16dcf8cd-2b57-4348-8194-7b7e617887d5" name="PHP 7.2" home="C:\OSPanel\modules\php\PHP_7.2-x64\php.exe" debugger_id="php.debugger.XDebug" />
