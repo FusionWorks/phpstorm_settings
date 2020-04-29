@@ -10,14 +10,14 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="C:\OSPanel\modules\php\PHP_7.3\php-cgi.exe" php_cli="C:\OSPanel\modules\php\PHP_7.3\php.exe" path_separator=";" version="7.3.16">
+        <phpinfo binary_type="PHP" php_cgi="C:\OSPanel\modules\php\PHP_7.3\php-cgi.exe" php_cli="C:\OSPanel\modules\php\PHP_7.3\php.exe" path_separator=";" version="7.3.17">
           <additional_php_ini />
           <configuration_file>C:\ospanel\modules\php\PHP_7.3\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value="." />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.9.4">
+            <debugger_info debugger="xdebug" debugger_version="2.9.5">
               <debug_extensions />
             </debugger_info>
           </debuggers>
